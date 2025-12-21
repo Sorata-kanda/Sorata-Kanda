@@ -12,13 +12,47 @@
 
 ## 🚀 About Me
 
-I'm a **highly motivated second-year engineering student** with an insatiable appetite for learning and building. My world revolves around **software development**, **AI tools**, and the relentless pursuit of turning ideas into reality through code.
+<div align="center">
 
-### 🎯 What Drives Me
-- **Daily Coding Habit** - Consistent GitHub commits because growth happens one line at a time
-- **Practical Problem Solving** - Building tools that actually make life easier
-- **AI-Powered Innovation** - Combining artificial intelligence with real-world workflows
-- **System-Level Mastery** - Deep diving into how things work under the hood
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║  🎓 Second-Year Engineering Student  |  🤖 AI Enthusiast     ║
+║  💻 Daily Coder & Builder           |  🔥 Problem Solver     ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+> **"Code is my canvas, AI is my brush, and innovation is my masterpiece"**
+
+I'm not just another engineering student—I'm a **digital architect** crafting the future one algorithm at a time. My journey is fueled by an **obsessive passion** for transforming complex problems into elegant solutions through the power of code and artificial intelligence.
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔥 My Daily Ritual
+```python
+while True:
+    wake_up()
+    code_something_amazing()
+    push_to_github()
+    learn_new_concept()
+    repeat()
+```
+
+</td>
+<td width="50%">
+
+### ⚡ What Sets Me Apart
+- 🎯 **Consistency Over Perfection** - Daily commits, daily growth
+- 🧠 **AI-First Mindset** - Every problem has an intelligent solution
+- 🛠️ **Builder's Mentality** - If it doesn't exist, I'll create it
+- 🚀 **Future-Focused** - Today's code shapes tomorrow's world
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -36,23 +70,73 @@ skills = {
 
 ### 🛠️ What I've Built
 
-#### 🤖 AI-Powered Desktop Tools
-- **Background Windows Assistants** using PyQt5 with seamless UI integration
-- **OCR Screenshot Systems** for instant text extraction and processing
-- **AI Content Automation** for LinkedIn and WhatsApp with intelligent posting
-- **Hotkey-Triggered Automation** for lightning-fast productivity workflows
+<div align="center">
 
-#### 🎨 UI & System Integration
-- **Drag-and-Drop Interfaces** with intuitive user experiences
-- **Windows Acrylic/Blur Effects** for modern, polished applications
-- **Headless Chrome Automation** for web scraping and interaction
-- **GPU Utilization Experiments** pushing hardware boundaries
-- **Lenovo Laptop Lighting Customization** because details matter
+**🎨 From Concept to Reality - My Project Showcase 🚀**
 
-#### 📊 Coding Platform Integration
-- **Screen-Capture Automation** for LeetCode and HackerRank
-- **Progress Tracking Systems** with automated GitHub commits
-- **OpenRouter API Integration** for advanced AI model utilization
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🤖 AI-Powered Tools
+![AI](https://img.shields.io/badge/AI-Powered-00D9FF?style=for-the-badge&logo=openai&logoColor=white)
+
+</td>
+<td width="33%" align="center">
+
+### 🎨 UI & Automation
+![UI](https://img.shields.io/badge/UI-Design-FF6B6B?style=for-the-badge&logo=figma&logoColor=white)
+
+</td>
+<td width="33%" align="center">
+
+### 📊 Platform Integration
+![Integration](https://img.shields.io/badge/Integration-Systems-4CAF50?style=for-the-badge&logo=integromat&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<details open>
+<summary><b>🤖 AI-Powered Desktop Arsenal</b></summary>
+<br>
+
+| Project | Tech Stack | Impact |
+|---------|-----------|--------|
+| **Background Windows Assistant** | PyQt5, Python | 🔥 Seamless UI integration with system-level access |
+| **OCR Screenshot System** | Computer Vision, OCR | ⚡ Instant text extraction from any screen |
+| **AI Content Automation** | OpenRouter API, AI Models | 🚀 Intelligent posting for LinkedIn & WhatsApp |
+| **Hotkey Automation** | Windows API, Python | 💪 Lightning-fast productivity workflows |
+
+</details>
+
+<details open>
+<summary><b>🎨 UI & System Integration Magic</b></summary>
+<br>
+
+```
+🎯 Drag-and-Drop Interfaces      → Intuitive user experiences
+🌟 Windows Acrylic/Blur Effects  → Modern, polished applications  
+🤖 Headless Chrome Automation    → Web scraping & interaction
+⚙️ GPU Utilization Experiments   → Pushing hardware boundaries
+💡 Lenovo Lighting Customization → System-level personalization
+```
+
+</details>
+
+<details open>
+<summary><b>📊 Coding Platform Integration</b></summary>
+<br>
+
+> **Automating the grind, focusing on the growth**
+
+- 📸 **Screen-Capture Automation** for LeetCode & HackerRank → Never miss a solved problem
+- 📈 **Progress Tracking Systems** → Automated GitHub commits for accountability
+- 🧠 **OpenRouter API Integration** → Advanced AI model utilization in real projects
+
+</details>
 
 ---
 
@@ -60,10 +144,10 @@ skills = {
 
 ### 🧠 Data Structures & Algorithms
 Currently crushing a **structured C++ DSA roadmap**:
-- ✅ Major portion of 115-video comprehensive playlist completed
-- 🎯 Daily problem-solving with documented solutions
-- 📚 Dedicated GitHub repository tracking every step of progress
-- 💪 Building strong algorithmic thinking foundations
+- 🎯 **Daily Problem-Solving** with documented solutions and progress tracking
+- 📚 **Dedicated GitHub Repository** showcasing algorithmic journey and growth
+- � *e*Building Strong Foundations** in computational thinking and optimization
+- � **iConsistent Practice** - Every algorithm mastered makes the next one easier
 
 ### 🌐 Web Development Mastery
 - ✅ **CSS Fundamentals** - Completed with hands-on projects
