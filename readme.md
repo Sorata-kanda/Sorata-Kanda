@@ -1,9 +1,11 @@
-# 👋 Hey there! I'm a passionate Engineering Student & AI Enthusiast
-
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Second+Year+Engineering+Student;AI+%26+Automation+Enthusiast;Daily+Coder+%26+Problem+Solver;Building+the+Future%2C+One+Commit+at+a+Time)
-  
+
+# Engineering Student & AI Innovator
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Second+Year+Engineering+Student;AI+%26+Automation+Enthusiast;Daily+Coder+%26+Problem+Solver;Building+Practical+Solutions+with+Code;Master+of+Fundamentals%2C+Pioneer+of+Innovation)
+
+**Passionate about turning ideas into reality through code**
+
 </div>
 
 ---
@@ -91,9 +93,9 @@ Currently crushing a **structured C++ DSA roadmap**:
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sorata-kanda&show_icons=true&theme=radical&hide_border=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sorata-kanda&layout=compact&theme=radical&hide_border=true)
   
 </div>
 
@@ -121,10 +123,10 @@ I'm always excited to collaborate on interesting projects, discuss AI innovation
   
   **"Building the future, one commit at a time"** 🚀
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Sorata-kanda&color=blueviolet&style=flat-square)
   
 </div>
 
 ---
 
-*Last updated: December 2024 | Always learning, always building* ⚡
+*Last updated: December 2025 | Always learning, always building* ⚡
