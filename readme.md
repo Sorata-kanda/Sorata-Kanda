@@ -56,6 +56,46 @@ while True:
 
 ---
 
+## � GitHub sAnalytics & Contribution Journey
+
+<div align="center">
+
+### 🚀 **Building My Open Source Journey** 🚀
+*Every commit is a step forward*
+
+</div>
+
+<div align="center">
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sorata-kanda&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=F85D7F&point=FFFFFF&area=true&hide_border=true)
+
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sorata-kanda&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=F85D7F&border_color=30363D&hide_border=false&border_radius=10)
+
+</td>
+<td width="50%">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sorata-kanda&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=false&border_radius=10)
+
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Sorata-kanda&theme=tokyonight)
+
+</div>
+
+---
+
 ## 💻 Tech Arsenal
 
 ### Languages & Core Skills
@@ -137,79 +177,6 @@ skills = {
 - 🧠 **OpenRouter API Integration** → Advanced AI model utilization in real projects
 
 </details>
-
----
-
-## 📈 Learning Journey
-
-### 🧠 Data Structures & Algorithms
-Currently crushing a **structured C++ DSA roadmap**:
-- 🎯 **Daily Problem-Solving** with documented solutions and progress tracking
-- 📚 **Dedicated GitHub Repository** showcasing algorithmic journey and growth
-- � *e*Building Strong Foundations** in computational thinking and optimization
-- � **iConsistent Practice** - Every algorithm mastered makes the next one easier
-
-### 🌐 Web Development Mastery
-- ✅ **CSS Fundamentals** - Completed with hands-on projects
-- 🔄 **JavaScript Deep Dive** - Currently mastering core concepts methodically
-- 📊 **Progress Tracking** - Every milestone documented on GitHub
-- 🎯 **Next Goal** - Full-stack development proficiency
-
----
-
-## 🎯 Current Focus & Future Vision
-
-### 🔥 Active Projects
-- Advanced AI agent development and integration
-- System-level programming and customization tools
-- Full-stack web application development
-- GPU-accelerated computing experiments
-
-### 🌟 Long-term Ambitions
-- **Master Advanced Coding Patterns** - Clean, efficient, scalable code
-- **AI Agent Specialist** - Building intelligent automation systems
-- **Full-Stack Proficiency** - End-to-end application development
-- **System Tools Expert** - Deep OS integration and optimization
-
----
-
-## 📊 GitHub Analytics & Contribution Journey
-
-<div align="center">
-
-### 🚀 **Building My Open Source Journey** 🚀
-*Every commit is a step forward*
-
-</div>
-
-<div align="center">
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sorata-kanda&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=F85D7F&point=FFFFFF&area=true&hide_border=true)
-
-</div>
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sorata-kanda&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=F85D7F&border_color=30363D&hide_border=false&border_radius=10)
-
-</td>
-<td width="50%">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sorata-kanda&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=false&border_radius=10)
-
-</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sorata-kanda&theme=tokyonight&background=0D1117&border=30363D&stroke=58A6FF&ring=F85D7F&fire=F85D7F&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9)
-
-</div>
 
 ---
 
