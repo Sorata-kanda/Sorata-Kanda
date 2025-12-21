@@ -2,7 +2,7 @@
 
 # Engineering Student & AI Innovator
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Second+Year+Engineering+Student;AI+%26+Automation+Enthusiast;Daily+Coder+%26+Problem+Solver;Building+Practical+Solutions+with+Code;Master+of+Fundamentals%2C+Pioneer+of+Innovation)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Second+Year+Engineering+Student;AI+%26+Automation+Enthusiast;Daily+Coder+%26+Problem+Solver;Building+Practical+Solutions+with+Code;Fundamentals+First%2C+Innovation+Always)
 
 **Passionate about turning ideas into reality through code**
 
