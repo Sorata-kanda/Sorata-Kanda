@@ -207,7 +207,7 @@ Currently crushing a **structured C++ DSA roadmap**:
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sorata-kanda&theme=tokyonight&background=0D1117&border=30363D&stroke=58A6FF&ring=F85D7F&fire=F85D7F&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Sorata-kanda&theme=tokyonight&background=0D1117&border=30363D&stroke=58A6FF&ring=F85D7F&fire=F85D7F&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9)
 
 </div>
 
