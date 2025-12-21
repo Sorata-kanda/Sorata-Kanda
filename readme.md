@@ -213,4 +213,16 @@ I'm always excited to collaborate on interesting projects, discuss AI innovation
 
 ---
 
-*Last updated: December 2025 | Always learning, always building* ⚡
+<div align="center">
+
+*"Every line of code is a step toward tomorrow, every commit a promise to never stop growing"*
+
+```
+╭─────────────────────────────────────────────────────────────╮
+│  ✨ Last updated: December 2025 | The journey continues... ✨  │
+╰─────────────────────────────────────────────────────────────╯
+```
+
+*From a curious mind to endless possibilities* 🌟
+
+</div>
