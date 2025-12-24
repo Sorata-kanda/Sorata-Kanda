@@ -76,12 +76,12 @@ while True:
 <tr>
 <td width="50%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sorata-kanda&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=F85D7F&border_color=30363D&hide_border=false&border_radius=10)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sorata-kanda&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=FF4444&text_color=FFFFFF&icon_color=FF6666&border_color=30363D&hide_border=false&card_width=400)
 
 </td>
 <td width="50%">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sorata-kanda&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=false&border_radius=10)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sorata-kanda&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=FF4444&text_color=FFFFFF&border_color=30363D&hide_border=false&card_width=400)
 
 </td>
 </tr>
